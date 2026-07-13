@@ -58,16 +58,6 @@ github-readme-activity-graph.vercel.app
 
 ---
 
-## 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anikaanjum5007&theme=tokyo-night"/>
-
-</p>
-
----
-
 ## 📌 Featured Projects
 
 - 🛒 SmartGrocer – Grocery Management System
@@ -78,24 +68,23 @@ github-readme-activity-graph.vercel.app
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/anikaanjum5007">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
 
-<a href="https://github.com/anikaanjum5007">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <a href="https://www.linkedin.com/in/anikaanjum007/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+
+ <a href="mailto:your-email@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/anikaanjum007/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://www.facebook.com/ARZoho">
-<img src="https://skillicons.dev/icons?i=facebook"/>
-</a>
-
-<a href="https://www.instagram.com/_zohora_/?hl=en">
-<img src="https://skillicons.dev/icons?i=twitch"/>
-</a>
-
+  <a href="https://www.instagram.com/_zohora_/">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
 </p>
+github.com
 
 ---
 
