@@ -33,13 +33,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anikaanjum5007&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikaanjum5007&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikaanjum5007&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="Activity Graph" />
 </p>
-
+github-readme-activity-graph.vercel.app
 ---
 
 ## 🔥 GitHub Streak
