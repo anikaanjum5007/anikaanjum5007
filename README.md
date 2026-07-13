@@ -4,7 +4,7 @@
 
 ###  Python & Power BI Enthusiast | Gamer 🎮
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Python+%7C+SQL+%7C+Power+BI;Learning+AI+%26+Machine+Learning;World+of+Warships+Streamer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Python+%7C+SQL+%7C+Power+BI;Learning+AI+%26+Machine+Learning" />
 
 ![](https://komarev.com/ghpvc/?username=anikaanjum5007&style=for-the-badge&color=blue)
 
