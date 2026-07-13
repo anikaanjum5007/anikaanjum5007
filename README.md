@@ -75,7 +75,7 @@ github-readme-activity-graph.vercel.app
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 </p>
-github.com
+
 
 ---
 
@@ -83,6 +83,6 @@ github.com
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code • Learn • Automate • Stream • Repeat"* 🚀
+*"Code • Learn • Automate • Game • Repeat"* 🚀
 
 </div>
